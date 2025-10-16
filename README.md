@@ -1,4 +1,4 @@
-# Semantic Kernel MCP Playground
+# GitHub-Semantic-Agents
 
 This is a .NET console application demonstrating agent-to-agent (A2A) collaboration using Semantic Kernel, MCP (Model Context Protocol), and GitHub API integration.
 
